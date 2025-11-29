@@ -7,4 +7,5 @@ Es un conjunto de técnicas y modelos que estudian cómo las personas piensan, s
 3. 🟡**Least Privilege (Principio de mínimo privilegio)
 Es una práctica de seguridad que otorga a cada usuario, sistema o proceso solo los permisos estrictamente necesarios para cumplir su función, reduciendo la superficie de ataque.**
 4. 🟢
-5. 🔵
+5. 🔵 **Mockup**
+Un mockup es un prototipo o representación visual estática de un diseño o concepto, utilizado en diversas áreas como el diseño gráfico, diseño web y desarrollo de productos. Su propósito es mostrar cómo se verá un diseño finalizado antes de su implementación, permitiendo a los diseñadores y clientes visualizar el producto sin necesidad de invertir mucho tiempo o recursos en su desarrollo. Además, los mockups son herramientas importantes en el proceso de diseño y marketing, ya que ayudan a comunicar ideas de manera efectiva. 
