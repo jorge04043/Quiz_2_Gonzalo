@@ -15,3 +15,5 @@ Un mockup es un prototipo o representación visual estática de un diseño o con
 7. ⚫ **COMPONENTE**
 es un módulo de software independiente y reutilizable que encapsula una funcionalidad específica, actuando como un bloque de construcción para sistemas más grandes
 
+8. 🙌**Finanzas descentralizadas (DeFi)**
+DeFi hace referencia a un conjunto de servicios financieros que funcionan de manera descentralizada, sin intermediarios tradicionales como bancos o instituciones financieras. Utiliza blockchain y contratos inteligentes para permitir préstamos, intercambios y más.
